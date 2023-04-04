@@ -10,6 +10,7 @@
       <slot></slot>
     </div>
   </div>
+  b1的更改2
 </template>
 
 <style scoped>
