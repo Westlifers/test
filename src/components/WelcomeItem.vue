@@ -7,7 +7,7 @@
       <h3>
         <slot name="heading">b2的第一次更改</slot>
       </h3>
-      <slot></slot>
+      <slot>b2的第二次更改</slot>
     </div>
   </div>
 </template>
