@@ -1,7 +1,7 @@
 <template>
   <div class="item">
     <i>
-      <slot name="icon">1</slot>
+      <slot name="icon">b1的更改1</slot>
     </i>
     <div class="details">
       <h3>
