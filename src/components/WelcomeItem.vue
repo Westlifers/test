@@ -5,9 +5,9 @@
     </i>
     <div class="details">
       <h3>
-        <slot name="heading"></slot>
+        <slot name="heading">b2的第一次更改</slot>
       </h3>
-      <slot></slot>
+      <slot>b2的第二次更改</slot>
     </div>
   </div>
   b1的更改2
